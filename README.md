@@ -5,4 +5,4 @@ This example/template is build for Android 6 (Marshmallow). It can readily be mo
 
 
 
-Other libraries, such as appache cordova/phoneGap, are bloated. They include old code required to support much older environments. The vast majority of Hybrid development projects don't need those complicated, large libraries. AndyHybrid, and its iOS twin SwiftlyHybrid, are more than sufficient.
+Other libraries, such as apache cordova/phoneGap, are bloated. They include old code required to support much older environments. The vast majority of Hybrid development projects don't need those complicated, large libraries. AndyHybrid, and its iOS twin SwiftlyHybrid, are more than sufficient.
